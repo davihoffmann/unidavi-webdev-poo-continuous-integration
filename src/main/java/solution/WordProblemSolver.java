@@ -3,7 +3,6 @@ package solution;
 import java.util.HashMap;
 import java.util.Map;
 
-//XXX renomear classe
 public class WordProblemSolver {
 
     private Map<String,Integer> results = new HashMap<String,Integer>();

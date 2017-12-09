@@ -1,3 +1,5 @@
+package solution;
+
 import java.util.logging.Logger;
 
 public class App {
